@@ -1,0 +1,37 @@
+	
+	.header{	
+		font-family: Kufam;
+		font-size: 30px;
+		border-color: black;
+		border-style: solid;
+		border-width: 12px;
+		border-radius: 8px;
+		text-align:  center;
+	}
+
+
+	.list{
+		font-family: Kufam;
+		font-size: 25px;
+		text-align: center;
+		margin-top: 15px;
+		padding: 8px 20px 20px 20px;
+	}
+
+	#input{
+		font-family: Kufam;
+		font-size: 15px;
+		display: block;
+        margin : 0 auto;
+	}
+
+	#title{
+		margin-bottom: 10px;
+		margin-top: 20px;
+	}
+
+	.buttonStyle{
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+
